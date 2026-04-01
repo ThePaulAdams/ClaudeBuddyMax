@@ -1,3 +1,6 @@
+<img width="526" height="646" alt="image" src="https://github.com/user-attachments/assets/748f4477-2d0a-433a-92fe-10f5f516c57c" />
+
+
 # Buddy — Claude Code Virtual Pet
 
 A desktop tamagotchi for your [Claude Code](https://claude.ai/claude-code) companion. Reads your buddy's name, species, stats, and personality directly from your Claude config — no setup needed.
