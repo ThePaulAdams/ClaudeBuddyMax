@@ -125,6 +125,3 @@ Runtime data (created automatically, not committed):
 - Python 3.10+ with `venv` support
 - Claude Code installed with a hatched companion (`/buddy` run at least once)
 
-## License
-
-MIT
