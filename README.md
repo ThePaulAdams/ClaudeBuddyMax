@@ -93,7 +93,7 @@ All interactions have **diminishing returns** — repeating the same action with
 - Age titles: Newborn → Baby → Toddler → Junior → Adult → Elder → Ancient
 
 ## Rerolling
-
+I haven't tested this, it might not work
 Right-click → Reroll menus let you change your buddy's appearance. This works in two stages:
 
 1. **Instant** — visual update in the pet app
